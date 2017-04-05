@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azande RPG", "Assembly-CSharp-firstpass.csproj", "{F4551AD4-C5C9-8DDC-C6A4-B387006C52D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azande RPG", "Assembly-CSharp.csproj", "{BD387654-5FE3-444C-4481-0D33D37FB6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azande RPG", "Assembly-CSharp-Editor-firstpass.csproj", "{A95C7FE9-99B6-D977-6930-629DF59EB6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4551AD4-C5C9-8DDC-C6A4-B387006C52D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4551AD4-C5C9-8DDC-C6A4-B387006C52D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4551AD4-C5C9-8DDC-C6A4-B387006C52D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4551AD4-C5C9-8DDC-C6A4-B387006C52D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD387654-5FE3-444C-4481-0D33D37FB6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD387654-5FE3-444C-4481-0D33D37FB6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD387654-5FE3-444C-4481-0D33D37FB6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD387654-5FE3-444C-4481-0D33D37FB6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95C7FE9-99B6-D977-6930-629DF59EB6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95C7FE9-99B6-D977-6930-629DF59EB6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95C7FE9-99B6-D977-6930-629DF59EB6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95C7FE9-99B6-D977-6930-629DF59EB6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
